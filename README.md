@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Syed Ibrahim
 
-Early-level MERN stack developer
+Early-stage MERN stack developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!--- 🔭 Here's my [portfolio](https://hareesh.web.app/)    -->                                             
 - 🌱 I’m currently focused on improving my web dev skills and learning DSA and planning of Integrating AI to my workflow
