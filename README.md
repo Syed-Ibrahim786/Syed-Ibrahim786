@@ -23,7 +23,8 @@ Early-stage MERN stack developer
 
 <!--![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)-->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/asyedibrahim7860?theme=dark&font=Arimo&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/asyedibrahim7860?theme=dark&font=Arimo&ext=heatmap)-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/asyedibrahim7860?theme=dark&font=Noto%20Kufi%20Arabic&ext=contest)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Syed-Ibrahim786)
 
